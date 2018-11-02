@@ -2,159 +2,21 @@
   "manifest": {
     "publishingInformation": {
       "locales": {
-        "de-DE": {
-          "summary": "Erfahre lustige und interessante Fakten über den Weltraum.",
-          "examplePhrases": [
-            "Alexa öffne weltraumfakten"
-          ],
-          "name": "HealthVoice",
-          "description": "Frage nach Weltraumfakten und lerne, was wirklich wichtig ist bei dieser Materie, wie zum Beispiel, dunkle Materie. Weltraumfakten bietet Spaß für die ganze Familie. Um zu beginnen, sage einfach „Alexa, starte Weltraumfakten“ oder „Alexa, öffne Weltraumfakten“, um ein Faktum zu erhalten. Du kannst sie jederzeit unterbrechen, indem du „Alexa, stop“ sagst."
-        },
-        "en-AU": {
-          "summary": "Learn fun facts about HealthVoice.",
-          "examplePhrases": [
-            "Alexa open HealthVoice",
-            "Alexa ask HealthVoice for a fact",
-            "Alexa tell HealthVoice to tell me trivia"
-          ],
-          "keywords": [
-            "HealthVoice",
-            "facts",
-            "trivia"
-          ],
-          "name": "HealthVoice",
-          "description": "Ask for HealthVoice, and learn about what really matters, like dark matter.\n\nHealthVoice provides fun the whole family can enjoy and is guaranteed to make you smarter.\n\nTo start, just say \"Alexa, launch HealthVoice\" or \"Alexa, open HealthVoice\" to get a fact\".\n\nAt anytime, you can stop by saying \"Alexa, stop\""
-        },
-        "en-CA": {
-          "summary": "Learn fun facts about HealthVoice.",
-          "examplePhrases": [
-            "Alexa open HealthVoice",
-            "Alexa ask HealthVoice for a fact",
-            "Alexa tell HealthVoice to tell me trivia"
-          ],
-          "keywords": [
-            "HealthVoice",
-            "facts",
-            "trivia"
-          ],
-          "name": "HealthVoice",
-          "description": "Ask for HealthVoice, and learn about what really matters, like dark matter.\n\nHealthVoice provides fun the whole family can enjoy and is guaranteed to make you smarter.\n\nTo start, just say \"Alexa, launch HealthVoice\" or \"Alexa, open HealthVoice\" to get a fact\".\n\nAt anytime, you can stop by saying \"Alexa, stop\""
-        },
-        "en-GB": {
-          "summary": "Learn fun facts about HealthVoice.",
-          "examplePhrases": [
-            "Alexa open HealthVoice",
-            "Alexa ask HealthVoice for a fact",
-            "Alexa tell HealthVoice to tell me trivia"
-          ],
-          "keywords": [
-            "HealthVoice",
-            "facts",
-            "trivia"
-          ],
-          "name": "HealthVoice",
-          "description": "Ask for HealthVoice, and learn about what really matters, like dark matter.\n\nHealthVoice provides fun the whole family can enjoy and is guaranteed to make you smarter.\n\nTo start, just say \"Alexa, launch HealthVoice\" or \"Alexa, open HealthVoice\" to get a fact\".\n\nAt anytime, you can stop by saying \"Alexa, stop\""
-        },
-        "en-IN": {
-          "summary": "Learn fun facts about HealthVoice.",
-          "examplePhrases": [
-            "Alexa open HealthVoice",
-            "Alexa ask HealthVoice for a fact",
-            "Alexa tell HealthVoice to tell me trivia"
-          ],
-          "keywords": [
-            "HealthVoice",
-            "facts",
-            "trivia"
-          ],
-          "name": "HealthVoice",
-          "description": "Ask for HealthVoice, and learn about what really matters, like dark matter.\n\nHealthVoice provides fun the whole family can enjoy and is guaranteed to make you smarter.\n\nTo start, just say \"Alexa, launch HealthVoice\" or \"Alexa, open HealthVoice\" to get a fact\".\n\nAt anytime, you can stop by saying \"Alexa, stop\""
-        },
         "en-US": {
-          "summary": "Learn fun facts about HealthVoice.",
+          "summary": "Sample Short Description",
           "examplePhrases": [
-            "Alexa open HealthVoice",
-            "Alexa ask HealthVoice for a fact",
-            "Alexa tell HealthVoice to tell me trivia"
+            "Alexa open health voice",
+            "Alexa tell health voice",
+            "Alexa ask health voice"
           ],
-          "keywords": [
-            "HealthVoice",
-            "facts",
-            "trivia"
-          ],
-          "name": "HealthVoice",
-          "description": "Ask for HealthVoice, and learn about what really matters, like dark matter.\n\nHealthVoice provides fun the whole family can enjoy and is guaranteed to make you smarter.\n\nTo start, just say \"Alexa, launch HealthVoice\" or \"Alexa, open HealthVoice\" to get a fact\".\n\nAt anytime, you can stop by saying \"Alexa, stop\""
-        },
-        "es-ES": {
-          "summary": "Aprenda datos divertidos sobre el espacio.",
-          "examplePhrases": [
-            "Alexa abre curiosidades del espacio"
-          ],
-          "keywords": [
-            "espacio",
-            "datos"
-          ],
-          "name": "HealthVoice",
-          "description": "Pida datos espaciales y aprenda sobre los planetas y el universo. Curiosidades del Espacio proporciona diversión que toda la familia puede disfrutar y está garantizado para hacerte más inteligente. Para empezar, simplemente di «Alexa, abre curiosidades del espacio» o «Alexa, lanza curiosidades del espacio» para obtener un hecho». En cualquier momento, puede parar diciendo «Alexa, detente»"
-        },
-        "es-MX": {
-          "summary": "Aprenda hechos divertidos sobre el espacio.",
-          "examplePhrases": [
-            "Alexa abre curiosidades del espacio"
-          ],
-          "keywords": [
-            "espacio",
-            "datos"
-          ],
-          "name": "HealthVoice",
-          "description": "Pide datos espaciales y aprende sobre los planetas y el universo. Curiosidades del Espacio proporciona diversión que toda la familia puede disfrutar y está garantizado para hacerte más inteligente. Para empezar, simplemente di «Alexa, abre curiosidades del espacio» o «Alexa, lanza curiosidades del espacio» para obtener un hecho». En cualquier momento, puedes parar diciendo «Alexa, detente»"
-        },
-        "fr-FR": {
-          "summary": "Découvrez des anecdotes marrantes sur l'eHealthVoice.",
-          "examplePhrases": [
-            "Alexa ouvre anecdotes de l'eHealthVoice",
-            "Alexa demande à anecdotes de l'eHealthVoice de me donner une anecdote",
-            "Alexa demande à anecdotes de l'eHealthVoice de me trouver une info"
-          ],
-          "keywords": [
-            "eHealthVoice",
-            "info",
-            "anecdote",
-            "trivia"
-          ],
-          "name": "HealthVoice",
-          "description": "Demandez des anecdotes sur l'eHealthVoice et découvrez ce qui compte vraiment, comme la matière noire.\n\nLes anecdotes de l'eHealthVoice vont régaler toute la famille et garantir de vous rendre plus intelligent.\n\nPour commencer, dites simplement \"Alexa, lance anecdotes de l'eHealthVoice\" ou \"Alexa, ouvre anecdotes de l'eHealthVoice\" pour obtenir une anecdote \".\n\nÀ tout moment, vous pouvez arrêter en disant \"Alexa, stop \""
-        },
-        "it-IT": {
-          "summary": "Impara informazioni divertenti sullo spazio.",
-          "examplePhrases": [
-            "Alexa apri aneddoti spaziali"
-          ],
-          "keywords": [
-            "spazio",
-            "aneddoti",
-            "trivia"
-          ],
-          "name": "HealthVoice",
-          "description": "Chiedi i fatti spaziali e scopri cosa conta davvero, come la materia oscura. Aneddoti Spaziali offre divertimento a tutta la famiglia ed è garantito per renderti più intelligente. Per iniziare, basta dire «Alexa, lanciare aneddoti spaziali» o «Alexa, apri aneddoti spaziali» per ottenere un fatto». In qualsiasi momento, puoi fermarti dicendo «Alexa, fermati»"
-        },
-        "ja-JP": {
-          "summary": "宇宙の豆知識を楽しみます",
-          "examplePhrases": [
-            "アレクサ、宇宙の豆知識を開いて",
-            "アレクサ、宇宙の豆知識で何か話して",
-            "アレクサ、宇宙の豆知識"
-          ],
-          "keywords": [
-            "宇宙",
-            "豆知識",
-            "トリビア"
-          ],
-          "name": "HealthVoice",
-          "description": "宇宙の豆知識を披露します。\n\n宇宙の豆知識は家族で楽しめる役に立つ内容でいっぱいです。\n\n開始するには \"アレクサ、豆知識を開いて\" や \"アレクサ、豆知識\" と話しかけてみてください\n\n\"アレクサ、ストップ\"というといつでも終了できます"
+          "name": "health voice",
+          "description": "Sample Full Description"
         }
       },
-      "category": "KNOWLEDGE_AND_TRIVIA"
+      "isAvailableWorldwide": true,
+      "testingInstructions": "Sample Testing Instructions.",
+      "category": "EDUCATION_AND_REFERENCE",
+      "distributionCountries": []
     },
     "apis": {
       "custom": {

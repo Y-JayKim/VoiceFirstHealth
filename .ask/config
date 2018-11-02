@@ -1,13 +1,14 @@
 {
   "deploy_settings": {
     "default": {
-      "skill_id": "amzn1.ask.skill.c6a00899-573e-42ec-b0a7-621d963ceacf",
+      "skill_id": "amzn1.ask.skill.e8274db5-28a5-4e08-ac34-c7af3d29bb6b",
+      "was_cloned": false,
       "merge": {
         "manifest": {
           "apis": {
             "custom": {
               "endpoint": {
-                "uri": "ask-custom-space-facts-default"
+                "uri": "ask-custom-health-voice-default"
               }
             }
           }
@@ -15,52 +16,22 @@
       },
       "resources": {
         "manifest": {
-          "eTag": "999dae0f25b485ff72bab2d37afda427"
+          "eTag": "11946937d629c5d1a029969a5c992aaf"
         },
         "interactionModel": {
-          "en-AU": {
-            "eTag": "6e529524cc8405c9982fe5930d429a74"
-          },
-          "de-DE": {
-            "eTag": "9f0cef85fd8528a7c99f06d71a2b5f17"
-          },
-          "en-GB": {
-            "eTag": "6e529524cc8405c9982fe5930d429a74"
-          },
-          "en-CA": {
-            "eTag": "6e529524cc8405c9982fe5930d429a74"
-          },
           "en-US": {
-            "eTag": "7f0e2fe92e7573801dd018a2d0488189"
-          },
-          "en-IN": {
-            "eTag": "6e529524cc8405c9982fe5930d429a74"
-          },
-          "it-IT": {
-            "eTag": "3c7a5b705d40e26e063ed4bb9d0f6a2e"
-          },
-          "es-ES": {
-            "eTag": "a4fa43bd1b35dab6d57168859027af48"
-          },
-          "fr-FR": {
-            "eTag": "0a7ecaab3483b6057272716c368ae3fb"
-          },
-          "es-MX": {
-            "eTag": "a4fa43bd1b35dab6d57168859027af48"
-          },
-          "ja-JP": {
-            "eTag": "2c544a5ee5b94d80b32f1a65b8cfc03e"
+            "eTag": "514eaff691d63901ba01e88d306ffca3"
           }
         },
         "lambda": [
           {
-            "arn": "arn:aws:lambda:us-east-1:473463230715:function:ask-custom-space-facts-default",
-            "functionName": "ask-custom-space-facts-default",
+            "arn": "arn:aws:lambda:us-east-1:473463230715:function:ask-custom-health-voice-default",
+            "functionName": "arn:aws:lambda:us-east-1:473463230715:function:ask-custom-health-voice-default",
             "awsRegion": "us-east-1",
             "alexaUsage": [
               "custom/default"
             ],
-            "revisionId": "99357e3c-e65d-4060-93f2-c83a27ee4580"
+            "revisionId": "86862a0c-dd36-4b1b-b6e2-ce3533c295e2"
           }
         ]
       }
