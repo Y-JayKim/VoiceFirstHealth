@@ -31,6 +31,18 @@
                     ]
                 },
                 {
+                    "name": "MemPhrase",
+                    "slots": [
+                        {
+                            "name": "Phrase",
+                            "type": "AMAZON.SearchQuery"
+                        }
+                    ],
+                    "samples": [
+                        "The phrase is {Phrase}"
+                    ]
+                },
+                {
                     "name": "DontKnowIntent",
                     "slots": [],
                     "samples": [
@@ -167,6 +179,11 @@
                 {
                     "name": "ConcussionTopic",
                     "values": [
+                        {
+                            "name": {
+                                "value": "Test"
+                            }
+                        },
                         {
                             "name": {
                                 "value": "Assessment"

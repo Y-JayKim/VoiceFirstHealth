@@ -26,9 +26,10 @@ module.exports = {
             'NEW_ASSESSMENT_MESSAGE': 'Welcome to %s. ',
             'WELCOME_MESSAGE': 'I will ask you %s questions, this will take some time, please stay with me. ' +
             'Please respond to each question with a number between 0 and 6, with 0 being no symptom and 6 being severe symptoms. Let\'s begin. ',
-            'QUESTION_PADDING': 'OK! Let\'s move on.',
+            'QUESTION_PADDING': ['OK! Let\'s move on. ', 'Alright, next question. ', 'I will remember that, here\'s the next one. ', 'We are getting there, next question. '],
             'TELL_QUESTION_MESSAGE': 'Question %s. %s ',
             'ASSESSMENT_OVER_MESSAGE': 'You got %s.',
+            'SEE_DOCTOR': 'Based on your responses so far, we recommend you contact your doctor immediately. '
         },
     },
     'en-US': {

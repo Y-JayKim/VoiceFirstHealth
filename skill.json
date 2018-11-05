@@ -5,11 +5,11 @@
         "en-US": {
           "summary": "Sample Short Description",
           "examplePhrases": [
-            "Alexa open health voice",
-            "Alexa tell health voice",
-            "Alexa ask health voice"
+            "Alexa open concussion doc",
+            "Alexa run concussion doc",
+            "Alexa ask concussion doc"
           ],
-          "name": "health voice",
+          "name": "ConcussionDocCli",
           "description": "Sample Full Description"
         }
       },

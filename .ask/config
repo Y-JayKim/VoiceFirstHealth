@@ -1,14 +1,14 @@
 {
   "deploy_settings": {
     "default": {
-      "skill_id": "amzn1.ask.skill.e8274db5-28a5-4e08-ac34-c7af3d29bb6b",
+      "skill_id": "amzn1.ask.skill.d104480c-7a5f-416b-8576-f185b7a697cd",
       "was_cloned": false,
       "merge": {
         "manifest": {
           "apis": {
             "custom": {
               "endpoint": {
-                "uri": "ask-custom-health-voice-default"
+                "uri": "ask-custom-ConcussionDocCli-default"
               }
             }
           }
@@ -16,22 +16,22 @@
       },
       "resources": {
         "manifest": {
-          "eTag": "11946937d629c5d1a029969a5c992aaf"
+          "eTag": "a9672a8201ecc9634e29c998dca2d579"
         },
         "interactionModel": {
           "en-US": {
-            "eTag": "514eaff691d63901ba01e88d306ffca3"
+            "eTag": "3df9efe2e2f8ba5f566245e17fb31f87"
           }
         },
         "lambda": [
           {
-            "arn": "arn:aws:lambda:us-east-1:473463230715:function:ask-custom-health-voice-default",
-            "functionName": "arn:aws:lambda:us-east-1:473463230715:function:ask-custom-health-voice-default",
+            "arn": "arn:aws:lambda:us-east-1:473463230715:function:ask-custom-ConcussionDocCli-default",
+            "functionName": "arn:aws:lambda:us-east-1:473463230715:function:ask-custom-ConcussionDocCli-default",
             "awsRegion": "us-east-1",
             "alexaUsage": [
               "custom/default"
             ],
-            "revisionId": "86862a0c-dd36-4b1b-b6e2-ce3533c295e2"
+            "revisionId": "2693c2d3-95cc-4949-8639-8bda435a154e"
           }
         ]
       }
