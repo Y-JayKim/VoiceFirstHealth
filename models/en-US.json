@@ -1,7 +1,7 @@
 {
     "interactionModel": {
         "languageModel": {
-            "invocationName": "health voice",
+            "invocationName": "concussion doc",
             "intents": [
                 {
                     "name": "AMAZON.CancelIntent",
